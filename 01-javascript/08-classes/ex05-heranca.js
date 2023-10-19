@@ -22,4 +22,4 @@ class Animal {
 animal.falar();
 // Papagaio: emite um barulho.
 const cachorro = new Cachorro('Luke');
-cachorro.falar()
+cachorro.falar() 
